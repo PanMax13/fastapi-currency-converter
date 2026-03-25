@@ -19,3 +19,6 @@ logs/
 *.sublime-project
 
 *.bak
+
+__pacache__/
+*.pyc
